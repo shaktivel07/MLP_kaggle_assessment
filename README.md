@@ -1,5 +1,5 @@
 #  Flight Ticket Price Prediction
-### Machine Learning Practice (MLP) Assessment | IIT Madras BS in Data Science and Applications
+
 
 > An end-to-end machine learning workflow for predicting airline ticket prices using regression models, developed as part of the **Machine Learning Practice (MLP)** course in the **IIT Madras BS Degree in Data Science and Applications**.
 
